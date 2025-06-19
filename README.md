@@ -84,6 +84,10 @@ Additional permissions needs to be added for BLE setup:
 * Android - Add permissions in **android/app/src/main/AndroidManifest.xml**
 * iOS - Add permissions in **ios/YourApp/Info.plist**
 
+### Create a device in Android Studio
+
+From device manager choose model, select ARM64 based emulator
+
 
 # Troubleshooting
 
